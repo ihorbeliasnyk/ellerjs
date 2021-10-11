@@ -4,7 +4,7 @@ A JavaScript implementation of Eller's maze generation algoritm. This algorithm 
 
 ### Rendered example
 
-![maze.png](<https://imgur.com/a/M3Llukq>)
+![maze.png](<https://i.imgur.com/wfdSA8K.png>)
 
 ## Installation
 
