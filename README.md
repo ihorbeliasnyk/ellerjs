@@ -1,12 +1,10 @@
 # ellerjs
 
-## Overview
-
 A JavaScript implementation of Eller's maze generation algoritm. This algorithm creates mazes, having path between any two cells
 
 ### Rendered example
 
-![maze (2).png](<https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0eb3241c-e8e3-4a06-8b7e-5b4f77a54629/maze_(2).png>)
+![maze.png](<https://i.imgur.com/wfdSA8K.png>)
 
 ## Installation
 
