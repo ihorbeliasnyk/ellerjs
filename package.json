@@ -1,0 +1,19 @@
+{
+  "name": "ellerjs",
+  "version": "0.0.1",
+  "description": "JavaScript implementation of Eller's maze generation algorithm.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "maze",
+    "eller"
+  ],
+  "author": "ihorb",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
