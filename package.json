@@ -12,6 +12,9 @@
     "eller"
   ],
   "author": "ihorb",
+  "repository": {
+    "url": "https://github.com/ihorbeliasnyk/ellerjs"
+  },
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.2.5"
