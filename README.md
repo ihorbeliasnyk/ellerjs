@@ -1,7 +1,7 @@
 # ellerjs
 ![tests](https://github.com/ihorbeliasnyk/ellerjs/actions/workflows/run_tests.yml/badge.svg) ![npm](https://img.shields.io/npm/v/ellerjs)
 
-A JavaScript implementation of Eller's maze generation algoritm. This algorithm creates mazes, having path between any two cells
+A JavaScript implementation of Eller's maze generation algoritm. this algorithm creates mazes that have a path between any two cells.
 
 ### Rendered example
 
