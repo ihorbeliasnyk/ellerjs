@@ -95,7 +95,8 @@ const createNextLine = (line) => {
     if (cell.bottom) {
       newCell._set = 0;
     }
-
+    
+    newCell.top = cell.bottom;
     newCell.right = false;
     newCell.left = false;
     newCell.bottom = false;
